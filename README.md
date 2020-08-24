@@ -18,17 +18,17 @@ Each directory afford 3 files:
 
 1. Ri_protections.txt - contains information about the protections devices present in the network.
 
-  a) #ArcNumber - represents the number of the arc (in the network) where the protection is placed.
+a) #ArcNumber - represents the number of the arc (in the network) where the protection is placed.
 
-  b) Type - represents the type of the equipment placed in this arc.
+b) Type - represents the type of the equipment placed in this arc.
 
 2. Ri_switches.txt - contais information about the switches present in the network.
 
-  a) #ArcNumber - represents the number of the arc (in the network) where the protection is placed.
+a) #ArcNumber - represents the number of the arc (in the network) where the protection is placed.
 
-  b) Capacity - represents the capacity supported by this specific switch.
+b) Capacity - represents the capacity supported by this specific switch.
 
-  c) Type - represents the type of the switch placed in this arc.
+c) Type - represents the type of the switch placed in this arc.
 
 3. Ri.dat - contains information about network topology.
 
@@ -37,18 +37,17 @@ Each directory afford 3 files:
     2nd line - Nominal voltage (kV)
 
    In the nodes section (each line contains):
-    a) Node number 
-    b) Active power demand (kW)
-    c) Reactive power demand kVAr)
-    d) Number of customers in the node
-    e) X coordinate
-    f) Y coordinate
+   a) Node number 
+   b) Active power demand (kW)
+   c) Reactive power demand kVAr)
+   d) Number of customers in the node
+   e) X coordinate
+   f) Y coordinate
 
    In the arcs section (each line contains):
-    a) Arc number
-    b) Source node
-    c) Target node
-    d) Resistance (Ohms)
-    e) Reactance (Ohms)
-    f) Closed/Opened (1/0)
-   
+   a) Arc number
+   b) Source node
+   c) Target node
+   d) Resistance (Ohms)
+   e) Reactance (Ohms)
+   f) Closed/Opened (1/0)
