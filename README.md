@@ -30,4 +30,25 @@ Each directory afford 3 files:
 
   c) Type - represents the type of the switch placed in this arc.
 
-3. Ri.dat
+3. Ri.dat - contains information about network topology.
+
+   In the header:
+    1st line - Number of nodes and arcs
+    2nd line - Nominal voltage (kV)
+
+   In the nodes section (each line contains):
+    a) Node number 
+    b) Active power demand (kW)
+    c) Reactive power demand kVAr)
+    d) Number of customers in the node
+    e) X coordinate
+    f) Y coordinate
+
+   In the arcs section (each line contains):
+    a) Arc number
+    b) Source node
+    c) Target node
+    d) Resistance (Ohms)
+    e) Reactance (Ohms)
+    f) Closed/Opened (1/0)
+   
