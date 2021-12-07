@@ -1,15 +1,15 @@
-# SAP
-# Switch Allocation Problem in Power Distribution Systems
+ SAP
+ Switch Allocation Problem in Power Distribution Systems
 
 ###########################################################
-# This repository provided information about 9 Power 
-# Distribution Systems for Switch Allocation Problems 
-# By:
-# 1. Laura Assis - laura.assis@cefet-rj.br
-# 2. José González - jfvg@feg.unesp.b
-# 3. Fábio Usberti - fusberti@ic.unicamp.br
-# 4. Christiano Lyra - chrlyra@densis.fee.unicamp.br
-# 5. Gustavo Epifanio - gustavo.epifanio@eic.cefet-rj.br
+ This repository provided information about 9 Power 
+ Distribution Systems for Switch Allocation Problems 
+ By:
+ 1. Laura Assis - laura.assis@cefet-rj.br
+ 2. José González - jfvg@feg.unesp.b
+ 3. Fábio Usberti - fusberti@ic.unicamp.br
+ 4. Christiano Lyra - chrlyra@densis.fee.unicamp.br
+ 5. Gustavo Epifanio - gustavo.epifanio@eic.cefet-rj.br
 ###########################################################
 
 Input Format:
