@@ -9,7 +9,8 @@
  2. José González - jfvg@feg.unesp.b
  3. Fábio Usberti - fusberti@ic.unicamp.br
  4. Christiano Lyra - chrlyra@densis.fee.unicamp.br
- 5. Gustavo Epifanio - gustavo.epifanio@eic.cefet-rj.br
+ 5. Celso Cavellucci - ccavellucci@gmail.com
+ 6. Gustavo Epifanio - gustavo.epifanio@eic.cefet-rj.br
  
 ###########################################################
 
